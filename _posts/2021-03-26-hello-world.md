@@ -27,4 +27,4 @@ int main(){
 }
 ```
 
-![1](/../penciler-star.github.io/assets/blog_res/2021-03-30-hello-world.assets/1-16507710709161.jpg)
+![1](/assets/blog_res/2021-03-26-hello-world.assets/1-16507762948022.jpg)
