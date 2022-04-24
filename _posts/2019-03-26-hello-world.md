@@ -13,12 +13,10 @@ math: false
 mermaid: true
 
 typora-root-url: ../../penciler-star.github.io
-
+ 
 ---
 
-# 感谢关注～ 
-
-之后会持续更新
+### 感谢关注，之后会持续更新
 
 ```c++
 #include<iostream>
@@ -28,4 +26,4 @@ int main(){
 }
 ```
 
-![wallhaven-1j7vo3](/assets/blog_res/2019-03-26-hello-world.assets/wallhaven-1j7vo3.jpg)
+![wallhaven-1j7vo3](../assets/blog_res/2019-03-26-hello-world.assets/wallhaven-1j7vo3.jpg)

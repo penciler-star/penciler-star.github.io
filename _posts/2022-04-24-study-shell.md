@@ -3,7 +3,7 @@ title: shell脚本学习
 date: 2022-04-24 12:34:00 +0800
 categories: [编程]
 tags: [linux]
-pin: true
+pin: false
 author: 东三儿
 
 toc: false
