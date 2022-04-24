@@ -26,4 +26,4 @@ int main(){
 }
 ```
 
-![wallhaven-1j7vo3](../assets/blog_res/2019-03-26-hello-world.assets/wallhaven-1j7vo3.jpg)
+![wallhaven-1j7vo3](../assets/blog_res/2019-03-26-hello-world.assets/lightning.jpg)
