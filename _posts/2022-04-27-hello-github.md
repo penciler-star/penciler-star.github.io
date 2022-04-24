@@ -8,16 +8,14 @@ author: 东三儿
 
 toc: true
 comments: true
-typora-root-url: ../../penciler-star.github.io
+
 math: false
 mermaid: true
 
-
+typora-root-url: ../../penciler-star.github.io
 ---
 
-# 感谢关注～ 
-
-这是我的第二篇博文。
+# 这是我的第二篇博文～ 
 
 Hello github!
 

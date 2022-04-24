@@ -8,11 +8,11 @@ author: 东三儿
 
 toc: true
 comments: true
-typora-root-url: ../../penciler-star.github.io
+
 math: false
 mermaid: true
 
-
+typora-root-url: ../../penciler-star.github.io
 
 ---
 
