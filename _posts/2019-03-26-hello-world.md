@@ -16,7 +16,7 @@ typora-root-url: ../../penciler-star.github.io
  
 ---
 
-### 感谢关注，之后会持续更新
+### 持续更新中......
 
 ```c++
 #include<iostream>
@@ -25,5 +25,7 @@ int main(){
 	return 0;
 }
 ```
+
+###### Tomorrow will be better
 
 ![lightning](../assets/blog_res/2019-03-26-hello-world.assets/lightning.jpg)
