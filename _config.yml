@@ -23,10 +23,10 @@ timezone:
 
 title: 东三儿                         # the main title
 
-tagline: 这里是东三儿的github博客～   # it will display as the sub-title
+tagline: 这里是我的github博客～   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-    这是通过Chirpy主题配置而成的
+    by Chirpy
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
