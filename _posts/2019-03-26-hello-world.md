@@ -21,8 +21,8 @@ typora-root-url: ../../penciler-star.github.io
 ```c++
 #include<iostream>
 int main(){
-    std::cout<<"hello world!"<<std::endl;
-  	return 0;
+	std::cout<<"hello world!"<<std::endl;
+	return 0;
 }
 ```
 
