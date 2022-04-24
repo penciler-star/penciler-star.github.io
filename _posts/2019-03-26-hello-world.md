@@ -1,5 +1,5 @@
 ---
-title: 这是我的第一篇博客！
+title: 感谢关注！
 date: 2019-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
@@ -17,8 +17,6 @@ typora-root-url: ../../penciler-star.github.io
 ---
 
 # 感谢关注～ 
-
-这是我的第一篇博客
 
 之后会持续更新
 
