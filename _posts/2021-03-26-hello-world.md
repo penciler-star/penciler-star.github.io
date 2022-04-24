@@ -18,13 +18,16 @@ typora-root-url: ../../penciler-star.github.io
 
 # 感谢关注～ 
 
+这是我的第一篇博客
 
-这是我的第一篇博客～
+之后会持续更新
+
 ```c++
-//代码片段
+#include<iostream>
 int main(){
-  hello world;
+    std::cout<<"hello world!"<<std::endl;
+  	return 0;
 }
 ```
 
-![1](/assets/blog_res/2021-03-26-hello-world.assets/1-16507762948022.jpg)
+![wallhaven-1j7vo3](/assets/blog_res/2021-03-26-hello-world.assets/wallhaven-1j7vo3.jpg)
