@@ -111,3 +111,27 @@ function add()
 my_sum=`add 1 3`
 echo $my_sum
 ```
+
+#### 其他命令
+
+```shell
+#! /bin/bash
+
+#执行后的返回值
+$?
+#输入参数的个数
+$#
+#输入所有的参数
+$*
+
+str="/home/test/a.sh"
+#删除str的第一个/及其前面的所有内容"home/test/a.sh"
+${str#*/}
+#删除str的最后一个/及其前面的所有内容"a.sh"
+${str##*/}
+#删除str的最后一个/及其后面的所有内容"/home/test"
+${str%/*}
+#删除str的第一个/及其后面的所有内容""
+${str%%/*}
+```
+
