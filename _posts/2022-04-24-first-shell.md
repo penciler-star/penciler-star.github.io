@@ -1,8 +1,8 @@
 ---
-title: 这是我的第二篇博客！
+title: shell脚本初探
 date: 2022-04-24 12:34:00 +0800
-categories: [随笔]
-tags: [生活]
+categories: [编程]
+tags: [linux]
 pin: true
 author: 东三儿
 
@@ -18,7 +18,7 @@ typora-root-url: ../../penciler-star.github.io
 
 # shell脚本 
 
-
+简单的输出hello world
 
 ```shell
 #! /bin/bash
