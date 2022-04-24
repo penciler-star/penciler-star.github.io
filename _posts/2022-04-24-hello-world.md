@@ -2,7 +2,7 @@
 title: 你好，世界！
 date: 2022-04-27 10:34:00 +0800
 categories: [随笔]
-tags: [测试]
+tags: [生活]
 pin: true
 author: 东三儿
 
