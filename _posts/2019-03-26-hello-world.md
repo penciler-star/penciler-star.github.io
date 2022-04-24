@@ -28,4 +28,4 @@ int main(){
 
 ###### Tomorrow will be better
 
-![lightning](../assets/blog_res/2019-03-26-hello-world.assets/lightning.jpg)
+![1-16507762948022](../assets/blog_res/2019-03-26-hello-world.assets/1-16507762948022.jpg)
