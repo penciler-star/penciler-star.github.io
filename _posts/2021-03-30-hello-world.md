@@ -12,12 +12,11 @@ typora-root-url: ../../penciler-star.github.io
 math: false
 mermaid: true
 
-
 ---
 
 # 感谢关注～ 
 
-这是我的第二篇博文。
+这是我的第一篇博文。
 
 Hello github!
 
@@ -30,4 +29,4 @@ int main()
 }
 ```
 
-![wallhaven-6oy92x](D:\github\boke\penciler-star.github.io\assets\blog_res\2022-04-24-hello-world.assets\wallhaven-6oy92x.jpg)
+![1](/../penciler-star.github.io/assets/blog_res/2021-03-30-hello-world.assets/1.jpg)
